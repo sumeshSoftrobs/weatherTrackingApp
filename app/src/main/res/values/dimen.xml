@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="globalPadding">20dp</dimen>
+    <dimen name="globalMargin">20dp</dimen>
+    <dimen name="internalMargin">15dp</dimen>
+    <dimen name="txtHeader">18sp</dimen>
+    <dimen name="txtBidHeader">24sp</dimen>
+    <dimen name="txtParagraph">12sp</dimen>
 </resources>
